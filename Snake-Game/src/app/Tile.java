@@ -1,3 +1,4 @@
+package app;
 public class Tile {
     private int x;
     private int y;
